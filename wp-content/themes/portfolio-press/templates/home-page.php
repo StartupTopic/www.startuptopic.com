@@ -20,14 +20,14 @@
 <meta charset="<?php bloginfo( 'charset' ); ?>">
 <meta name="viewport" content="width=device-width, user-scalable=no">
 <meta name="author" content="DennyZhang" />
-<meta name="copyright" content="DennyZhang.com" />
+<meta name="copyright" content="Startuptopic.com" />
 <meta name="keywords" content="DennyZhang Freelancer Startup iOS skills Promotion Branding" />
 <meta name="description" content="Hi there, this is DennyZhang's personal website. A freelancer, a indie iOS developer, a super fan of emacs, a fullstack engineer. The website is supposed to be a classroom for indie developers; a help center for freelancers" />
 <title><?php wp_title( '|', true, 'right' ); ?></title>
 <link rel="profile" href="http://gmpg.org/xfn/11">
 <link rel="icon" href="<?php echo esc_url( get_template_directory_uri() . '/images/icon.png' ); ?>" type="image/x-icon">
 <link rel="pingback" href="<?php bloginfo( 'pingback_url' ); ?>">
-<link type="text/plain" rel="author" href="http://www.dennyzhang.com/humans.txt" />
+<link type="text/plain" rel="author" href="http://www.startuptopic.com/humans.txt" />
 <link rel="prerender"  href="/portfolio/">
 <link rel="prerender"  href="/service/">
 <link rel="prerender"  href="/blog/">
@@ -82,7 +82,7 @@
 				<li><a target="_blank" class="linkedin" href="https://www.linkedin.com/profile/view?id=82039767">LinkedIn</a></li>
 				<!--<li><a target="_blank" class="rss" href="./feed/">RSS</a></li>-->
 			</ul>
-			<form method="post" action="http://www.dennyzhang.com/" id="mc4wp-form-1" class="form mc4wp-form">
+			<form method="post" action="http://www.startuptopic.com/" id="mc4wp-form-1" class="form mc4wp-form">
 				<p>
 					<label for="mc4wp_email">Email address: </label>
 					<input type="email" id="mc4wp_email" name="EMAIL" placeholder="Your email address" required="">

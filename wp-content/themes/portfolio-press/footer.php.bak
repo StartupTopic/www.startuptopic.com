@@ -12,7 +12,7 @@
 		<div class="col-width">
 		<div id="site-generator">
 			<p>
-				@2014&nbsp;&nbsp;<a href="<?php echo esc_url(home_url());?>">DennyZhang.com</a>
+				@2014&nbsp;&nbsp;<a href="<?php echo esc_url(home_url());?>">StartupTopic.com</a>
 			</p>
 		</div>
 
