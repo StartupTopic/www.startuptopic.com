@@ -1,0 +1,127 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP-ContactForm\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-03-15 17:58+0100\n"
+"PO-Revision-Date: 2008-03-15 17:58+0100\n"
+"Last-Translator: Johannes Ries <kontakt@johannesries.de>\n"
+"Language-Team: Johannes Ries <johannesries.de>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: options-contactform.php:12
+msgid "you@example.com"
+msgstr "adresse@beispiel.de"
+
+#: options-contactform.php:13
+msgid "Contact Form Results"
+msgstr "E-Mail via Kontaktformular"
+
+#: options-contactform.php:14
+msgid "Thanks for your comments!"
+msgstr "Vielen Dank für die E-Mail!"
+
+#: options-contactform.php:15
+msgid "Please fill in the required fields."
+msgstr "Bitte die erforderlichen Felder ausf&uuml;llen."
+
+#: options-contactform.php:41
+#: wp-contactform.php:262
+msgid "Contact Form Options"
+msgstr "Kontaktformular Optionen"
+
+#: options-contactform.php:46
+msgid "E-mail Address:"
+msgstr "E-Mail-Adresse:"
+
+#: options-contactform.php:49
+msgid "This address is where the email will be sent to."
+msgstr "An diese Adresse werden die E-Mails gesendet."
+
+#: options-contactform.php:52
+msgid "Subject:"
+msgstr "Betreff:"
+
+#: options-contactform.php:55
+msgid "This will be the subject of the email."
+msgstr "Dies wird der Betreff der E-Mails sein."
+
+#: options-contactform.php:60
+msgid "Messages"
+msgstr "Nachrichten"
+
+#: options-contactform.php:63
+msgid "Success Message:"
+msgstr "Erfolgsnachricht:"
+
+#: options-contactform.php:66
+msgid "When the form is sucessfully submitted, this is the message the user will see."
+msgstr "Wird angezeigt, wenn die Nachricht erfolgreich gesendet wurde."
+
+#: options-contactform.php:69
+msgid "Error Message:"
+msgstr "Fehlermeldung:"
+
+#: options-contactform.php:72
+msgid "If the user skips a required field, this is the message he will see."
+msgstr "Diese Nachricht wird angezeigt, wenn ein Nutzer ein erforderliches Feld &uuml;bersieht."
+
+#: options-contactform.php:73
+msgid "You can apply CSS to this text by wrapping it in <code>&lt;p style=\"[your CSS here]\"&gt; &lt;/p&gt;</code>."
+msgstr "Hier kann CSS verwendet werden, wenn es so eingef&uuml;gt wird: <code>&lt;p style=\"[CSS-Code hier eingeben]\"&gt; &lt;/p&gt;</code>."
+
+#: options-contactform.php:74
+msgid "ie. <code>&lt;p style=\"color:red;\"&gt;Please fill in the required fields.&lt;/p&gt;</code>."
+msgstr "z.B. <code>&lt;p style=\"color:red;\"&gt;Bitte alle erforderlichen Felder ausf&uuml;llen.&lt;/p&gt;</code>."
+
+#: options-contactform.php:81
+msgid "Advanced"
+msgstr "Erweiterte Einstellungen"
+
+#: options-contactform.php:85
+msgid "Show 'Contact Form' Quicktag"
+msgstr "Kontaktformular Quicktag anzeigen"
+
+#: options-contactform.php:96
+msgid "Update Options"
+msgstr "Einstellungen speichern"
+
+#: wp-contactform.php:28
+#: wp-contactform.php:29
+#: wp-contactform.php:93
+#: wp-contactform.php:99
+msgid "required"
+msgstr "erforderlich"
+
+#: wp-contactform.php:47
+msgid "Insert Contact Form"
+msgstr "Kontaktformular einf&uuml;gen"
+
+#: wp-contactform.php:166
+msgid "Your Name: "
+msgstr "Name:"
+
+#: wp-contactform.php:167
+msgid "Your Email:"
+msgstr "E-Mail-Adresse:"
+
+#: wp-contactform.php:168
+msgid "Your Website:"
+msgstr "Website:"
+
+#: wp-contactform.php:169
+msgid "Your Message: "
+msgstr "Nachricht:"
+
+#: wp-contactform.php:170
+msgid "Submit"
+msgstr "Senden"
+
+#: wp-contactform.php:262
+msgid "Contact Form"
+msgstr "Kontaktformular"
+
