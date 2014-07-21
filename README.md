@@ -1,4 +1,4 @@
-www.dennyzhang.com
+www.startuptopic.com
 ==================
 
 wordpress blog: an studio of indie developers
