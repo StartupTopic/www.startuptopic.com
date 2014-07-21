@@ -6,7 +6,7 @@
 ## Description :
 ## --
 ## Created : <2013-09-05>
-## Updated: Time-stamp: <2014-06-03 21:38:29>
+## Updated: Time-stamp: <2014-07-21 00:11:37>
 ##-------------------------------------------------------------------
 # */10 * * * * source /etc/profile; (/var/www/html/wordpress2/tool/crontab_git_pull.sh 2>&1) 1>> /tmp/crontab_git_pull.log
 
@@ -26,6 +26,8 @@ function update_git()
 basedir=$(dirname $0)
 update_git $basedir
 
+export http_proxy='http://192.168.1.184:3128/'
+export https_proxy='http://192.168.1.184:3128/'
 # Add watermark to pictures
 cd $basedir/../wp-content/uploads/denny
 for f in `ls origin/*`; do composite -dissolve 50% -gravity southeast -quality 100 watermark.png $f $(basename $f); done
